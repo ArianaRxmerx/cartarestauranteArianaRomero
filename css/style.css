@@ -1,0 +1,81 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 30px;
+    color: rgb(145, 0, 73);
+
+}
+
+h2 {
+    margin-top: 30px;
+    color: rgb(149, 0, 104);
+    text-transform: uppercase;
+}
+
+.card {
+    margin-bottom: 20px;
+}
+
+.card-title {
+    font-size: 1.25rem;
+    font-weight: bold;
+}
+
+.card-text {
+    margin-bottom: 15px;
+}
+
+.list-group-item {
+    padding: 5px 10px;
+}
+
+.list-group-item:last-child {
+    margin-bottom: 0;
+}
+
+.wrap {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.column {
+    width: 30%; 
+}
+
+.plato-carta {
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    padding: 10px;
+}
+
+.title-plato-carta {
+    margin-bottom: 10px;
+}
+
+.title-plato-carta h4 {
+    margin: 0;
+}
+
+.precio-plato-carta {
+    text-align: right;
+}
+
+.ingredient-img {
+    width: 50px; 
+    height: auto;
+    margin-right: 5px; 
+    margin-bottom: 5px;
+    border-radius: 5px; 
+    border: 1px solid #ccc; 
+}
+  

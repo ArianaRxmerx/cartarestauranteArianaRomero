@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu>
+<plato>
+<nombre tipo="entrante">GYOZA DE POLLO </nombre>
+<precio>5,95</precio> 
+<descripcion>Empanadilla rellena de pollo al vapor</descripcion>
+<calorias>202 kcal </calorias>
+<ingredientes>
+<categoria enlace="./img/1.jpg"></categoria>
+<categoria enlace="./img/6.jpg"></categoria>
+</ingredientes>
+</plato> 
+
+<plato>
+<nombre tipo="entrante">BAO </nombre>
+<precio>6,95</precio> 
+<descripcion>Bollo de pan cocido relleno de carne</descripcion>
+<calorias>264 kcal</calorias>
+<ingredientes>
+<categoria enlace="./img/1.jpg"></categoria>
+</ingredientes>
+</plato> 
+
+<plato>
+<nombre tipo="entrante">PATO PEKÍN</nombre>
+<precio>9,95</precio> 
+<descripcion>Carne de pato asado, servido con cebolla verde, pepino y salsa hoisin.</descripcion>
+<calorias>265 kcal</calorias>
+<ingredientes>
+<categoria enlace="./img/1.jpg"></categoria>
+</ingredientes>
+</plato> 
+
+<plato>
+<nombre tipo="entrante">ROLLITOS DE PRIMAVERA</nombre>
+<precio>4,50</precio> 
+<descripcion>Rollito  relleno de verduras.</descripcion>
+<calorias>265 kcal</calorias>
+<ingredientes>
+<categoria enlace="./img/1.jpg"></categoria>
+<categoria enlace="./img/5.jpg"></categoria>
+</ingredientes>
+</plato> 
+
+<plato>
+<nombre tipo="fideosArroces">YAKI UDON</nombre>
+<precio>6,95</precio> 
+<descripcion>Fideos udon con verduras y gambas</descripcion>
+<calorias>600 kcal</calorias>
+<ingredientes>
+<categoria enlace="./img/1.jpg"></categoria>
+<categoria enlace="./img/2.jpg"></categoria>
+<categoria enlace="./img/3.jpg"></categoria>
+</ingredientes>
+</plato>
+
+<plato>
+<nombre tipo="fideosArroces">FIDEOS DE ARROZ</nombre>
+<precio>6,80</precio> 
+<descripcion>Fideos de arroz frito con pollo y verduras</descripcion>
+<calorias>372 kcal</calorias>
+<ingredientes>
+<categoria enlace="./img/2.jpg"></categoria>
+<categoria enlace="./img/5.jpg"></categoria>
+</ingredientes>
+</plato>
+
+<plato>
+<nombre tipo="fideosArroces">RAMEN</nombre>
+<precio>7,95</precio> 
+<descripcion>Ramen con caldo de cerdo, setas verduras y huevos.</descripcion>
+<calorias>372 kcal</calorias>
+<ingredientes>
+<categoria enlace="./img/1.jpg"></categoria>
+<categoria enlace="./img/3.jpg"></categoria>
+<categoria enlace="./img/5.jpg"></categoria>
+</ingredientes>
+</plato>
+
+
+<plato>
+<nombre tipo="fideosArroces">ARROZ FRITO</nombre>
+<precio>6,95</precio> 
+<descripcion> Arroz cocido, verduras picadas, pollo, gambas y huevos</descripcion>
+<calorias>429 kcal</calorias>
+<ingredientes>
+<categoria enlace="./img/5.jpg"></categoria>
+<categoria enlace="./img/2.jpg"></categoria>
+<categoria enlace="./img/3.jpg"></categoria>
+</ingredientes>
+</plato>
+
+<plato>
+<nombre tipo="sushi">MAKI DE ATUN</nombre>
+<precio>6,25€</precio> 
+<descripcion>Contiene arroz, alga nori y atún crudo</descripcion>
+<calorias>30 kcal</calorias>
+<ingredientes>
+<categoria enlace="./img/4.jpg"></categoria>
+</ingredientes>
+</plato>
+
+<plato>
+<nombre tipo="sushi">MAKI DE AGUACATE</nombre>
+<precio>6,85</precio> 
+<descripcion>Contiene arroz, alga nori y aguacate</descripcion>
+<calorias>28 kcal</calorias>
+<ingredientes>
+<categoria enlace="./img/4.jpg"></categoria>
+</ingredientes>
+</plato>
+
+<plato>
+<nombre tipo="sushi">CALIFORNIA ROLL</nombre>
+<precio>8,90</precio> 
+<descripcion>Cangrejo, aguacate y pepino cubierto de huevas</descripcion>
+<calorias>250 kcal</calorias>
+<ingredientes>
+<categoria enlace="./img/2.jpg"></categoria>
+<categoria enlace="./img/5.jpg"></categoria>
+</ingredientes>
+</plato>
+
+<plato>
+<nombre tipo="sushi">SALMON ROLL</nombre>
+<precio>7,95€</precio> 
+<descripcion>Salmon, cangrejo, aguacate y pepino.</descripcion>
+<calorias>180 kcal</calorias>
+<ingredientes>
+<categoria enlace="./img/4.jpg"></categoria>
+<categoria enlace="./img/2.jpg"></categoria>
+<categoria enlace="./img/5.jpg"></categoria>
+</ingredientes>
+</plato>
+
+<plato>
+<nombre tipo="sushi">FUTO EBITEN ROLLO FRITO</nombre>
+<precio>9,95</precio> 
+<descripcion>Tempura de langostinos y salsa anguila.</descripcion>
+<calorias>375 kcal</calorias>
+<ingredientes>
+<categoria enlace="./img/2.jpg"></categoria>
+</ingredientes>
+</plato>
+
+<plato>
+<nombre tipo="sushi">FUTO QUESO</nombre>
+<precio>8,95</precio> 
+<descripcion>Rollo frito con queso y salsa de anguila.</descripcion>
+<calorias>405 kcal</calorias>
+<ingredientes>
+<categoria enlace="./img/1.jpg"></categoria>
+</ingredientes>
+</plato>
+
+<plato>
+<nombre tipo="sushi">TEMAKI DE SALMON</nombre>
+<precio>5,50</precio> 
+<descripcion>Salmon, aguacate y semillas de sesamo.</descripcion>
+<calorias>246 kcal</calorias>
+<ingredientes>
+<categoria enlace="./img/4.jpg"></categoria>
+</ingredientes>
+</plato>
+
+<plato>
+<nombre tipo="sushi">NIGUIRI SALMON</nombre>
+<precio>5,50</precio> 
+<descripcion>Arroz y salmon crudo.</descripcion>
+<calorias>50 kcal</calorias>
+<ingredientes>
+<categoria enlace="./img/4.jpg"></categoria>
+</ingredientes>
+</plato>
+
+<plato>
+<nombre tipo="sushi">NIGUIRI TUNA</nombre>
+<precio>5,50</precio> 
+<descripcion>Arroz y atun crudo.</descripcion>
+<calorias>55 kcal</calorias>
+<ingredientes>
+<categoria enlace="./img/4.jpg"></categoria>
+</ingredientes>
+</plato>
+
+<plato>
+<nombre tipo="postre">MOCHI</nombre>
+<precio>3,62</precio> 
+<descripcion>Harina arroz glutinoso molido y agua, relleno con ingredientes dulces y cubierto con polvo azúcar.</descripcion>
+<calorias>190 kcal</calorias>
+</plato>
+
+<plato>
+<nombre tipo="postre">DORAYAKI</nombre>
+<precio>3,95</precio> 
+<descripcion>Panqueques rellenos de pasta dulce de frijoles azuki.</descripcion>
+<calorias>279 kcal</calorias>
+</plato>
+
+<plato>
+<nombre tipo="postre">HANAMI DANGO</nombre>
+<precio>2,99</precio> 
+<descripcion>Bolas de masa de arroz glutinoso de diferentes colores.</descripcion>
+<calorias>187 kcal</calorias>
+</plato>
+
+<plato>
+<nombre tipo="bebida">AGUA</nombre>
+<precio>1,95</precio> 
+<descripcion>Agua mineral.</descripcion>
+<calorias>0 kcal</calorias>
+</plato>
+
+<plato>
+<nombre tipo="bebida">COCA COLA</nombre>
+<precio>3,99</precio> 
+<descripcion>Azúcar o edulcorantes, colorantes, ácido fosfórico, cafeína y saborizantes naturales.</descripcion>
+<calorias>170 kcal</calorias>
+</plato>
+
+<plato>
+<nombre tipo="bebida">FANTA NARANJA</nombre>
+<precio>3,99</precio> 
+<descripcion>Azúcar o edulcorantes, concentrado de jugo de naranja, ácido cítrico y colorantes.</descripcion>
+<calorias>160 kcal</calorias>
+</plato>
+
+<plato>
+<nombre tipo="bebida">NESTEA</nombre>
+<precio>2,69</precio> 
+<descripcion>Azúcar o edulcorantes, colorante y extracto de té.</descripcion>
+<calorias>33 kcal</calorias>
+</plato>
+
+<plato>
+<nombre tipo="bebida">ESTRELLA DAMM</nombre>
+<precio>4,50</precio> 
+<descripcion>Malta de cebada, maíz, lúpulo y levadura.</descripcion>
+<calorias>50 kcal</calorias>
+</plato>
+
+<plato>
+<nombre tipo="bebida">SAN MIGUEL</nombre>
+<precio>4,50</precio> 
+<descripcion>Malta de cebada, maíz, lúpulo y levadura.</descripcion>
+<calorias>44 kcal</calorias>
+</plato>
+
+</menu>
